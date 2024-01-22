@@ -15,7 +15,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/samsung/m10lte/device.mk)
 
 PRODUCT_DEVICE := m10lte
-PRODUCT_NAME := omni_m10lte
+PRODUCT_NAME := twrp_m10lte
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-M105G
 PRODUCT_MANUFACTURER := samsung
